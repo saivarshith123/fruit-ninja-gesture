@@ -22,7 +22,7 @@ This project uses your webcam to track your hand in real time. When you move you
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/fruit-ninja-gesture.git
+git clone https://github.com/saivarshith123/fruit-ninja-gesture.git
 cd fruit-ninja-gesture
 ```
 
