@@ -64,7 +64,6 @@ fruit-ninja-gesture/
 │
 ├── one.py               # Main game script
 ├── README.md            # Project documentation
-└── demo.gif             # (Optional) Game demo recording
 ```
 
 ## 🧠 Key Features Explained
